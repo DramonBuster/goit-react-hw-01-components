@@ -2,6 +2,7 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://DramonBuster.github.io/goit-react-hw-01-components/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
@@ -11,6 +12,10 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DramonBuster/goit-react-hw-01-components"
   },
   "scripts": {
     "start": "react-scripts start",
